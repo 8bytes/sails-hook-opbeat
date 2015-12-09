@@ -1,0 +1,16 @@
+{
+  "name": "sails-hook-opbeat",
+  "version": "1.0.0",
+  "description": "Opbeat implementation for Sails.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "sails",
+    "sailsjs",
+    "opbeat"
+  ],
+  "author": "Konstantin Zolotarev <konstantin.zolotarev@gmail.com>",
+  "license": "MIT"
+}
