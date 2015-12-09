@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "description": "Opbeat implementation for Sails.js application",
   "main": "index.js",
+  "sails": {
+    "isHook": true
+  },
   "scripts": {
     "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konstantinzolotarev/sails-hook-opbeat.git"
   },
   "keywords": [
     "sails",
