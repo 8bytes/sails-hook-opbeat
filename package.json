@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-opbeat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Opbeat implementation for Sails.js application",
   "main": "index.js",
   "sails": {
