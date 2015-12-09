@@ -15,6 +15,7 @@
   "mocha": true,
   "expr": true,
   "globals": {
-    "sails": true
+    "sails": true,
+    "opbeat": true
   }
 }

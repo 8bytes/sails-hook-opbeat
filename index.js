@@ -4,6 +4,8 @@ module.exports = function(app) {
 
   return {
 
-    defaults: require('lib/defaults')
+    defaults: require('./lib/defaults'),
+
+    initialize: require('./lib/initialize')(app)
   };
 };

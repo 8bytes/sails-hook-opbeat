@@ -5,6 +5,7 @@ To install Opbeat hook follow this simaple steps:
 
 - Install hook via npm `npm install --save sails-hook-opbeat`
 - Configure hook [See configuration section][1]
+- Add this following line in the first line of your `app.js`: `require('sails-hook-opbeat/register');`
 
 ## [1]: Configuration
 
